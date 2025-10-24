@@ -17,7 +17,7 @@ Other    : RabbitMQ · Elasticsearch / OpenSearch · Clean Code · Serverless pa
 ---
 
 ### Selected Projects  
-- **init** – My very first GitHub project, built with pure HTML, CSS, and JavaScript — full of beginner mistakes I now keep proudly as a reminder of where it all started.
+- **init** – My very first GitHub project, built with pure HTML, CSS, and JavaScript - full of beginner mistakes I now keep proudly as a reminder of where it all started.
 - **appointment‑backend** – A TypeScript/NestJS backend service for managing appointments, featuring clean architecture, and relational database logic.  
 - **appointment‑frontend** – Matching frontend built with Next.js/React, showcasing full‑stack delivery and modern UI patterns.  
 - **url‑transformer** – TypeScript utility for reusable, type‑safe URL parsing and transformation logic.  
@@ -36,4 +36,4 @@ Other    : RabbitMQ · Elasticsearch / OpenSearch · Clean Code · Serverless pa
 ### Let’s Connect  
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivanstepanovic1/)
   
-<sub>“Clean code always looks like it was written by someone who cares.” — Michael Feathers</sub>
+<sub>“Clean code always looks like it was written by someone who cares.” - Michael Feathers</sub>
